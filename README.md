@@ -169,4 +169,8 @@ function makeNodePromisifiedClosure(callback, receiver) {
 
 ## oc
 
+### 推荐
+
+http://promisekit.org/
+
 
